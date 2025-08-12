@@ -26,5 +26,9 @@ ESPNOW只需要知道接收端的MAC的地址即可完成消息发送，延迟�
 |   IO6   |  LED2   |
 |  IO7    |  LED3   |
 
+左侧母口为人体红外传感器接口从上到下为GND,3V3,IO4
+
+右侧UART串口从上到下依次是TX,RX,GND
+
 ![image](V0.1/1.png)
 ![image](V0.1/2.png)
